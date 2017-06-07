@@ -6,7 +6,7 @@ Course offered by EPFL via Coursera
 Week 1: Wikipedia  
 Week 2: Stackoverflow  
 Week 3: --  
-Week 4: Time Usages    
+Week 4: Time Usage    
 
 
 *Official Certifcate Link:* --  
